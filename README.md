@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230126
+# Name: KANIMOZHI K N
+# Date: 20-11-2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1240" height="955" alt="Screenshot 2026-10-20 204340" src="https://github.com/user-attachments/assets/4699cb7a-c8b5-47d1-a031-7916d7de92c5" />
 
 
 
@@ -60,6 +61,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1238" height="957" alt="Screenshot 2026-10-28 142942" src="https://github.com/user-attachments/assets/a728bfdc-df86-48d4-bb54-cceb875c55c8" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,6 +70,9 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+
+<img width="938" height="722" alt="image" src="https://github.com/user-attachments/assets/7c255dcd-f5ba-44b8-a671-bde970dee3dc" />
 
 
 
@@ -80,6 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="932" height="733" alt="image" src="https://github.com/user-attachments/assets/f5d26223-ae41-4f7a-bfcd-bca6c0cf4aa6" />
 
 
 
@@ -98,6 +105,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1228" height="927" alt="Screenshot 2026-10-23 143110" src="https://github.com/user-attachments/assets/0cabe843-5cb3-41e7-85aa-4ff861998a44" />
 
 
 
@@ -120,6 +128,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="911" height="693" alt="Screenshot 2026-11-03 105955" src="https://github.com/user-attachments/assets/0107dbae-a616-45a4-9dfb-7443ccbfdd4b" />
 
 
 
